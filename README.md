@@ -10,9 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Glendielle&bg_color=000000&color=ffff00&line=f0e68c&point=ffff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
  
- <img src="https://github-profile-trophy.vercel.app/?username=Glendielle&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p><div> 
-
+ 
   <div align="center"> 
 <a href="https://www.instagram.com/glendiellem" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -49,4 +47,9 @@
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<div>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Glendielle}/count.svg" /></p> 
+<br></div>
