@@ -39,7 +39,9 @@
   </span></b>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400px" alt="Snake Animation"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=120&section=footer"/>
