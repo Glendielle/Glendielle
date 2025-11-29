@@ -23,19 +23,13 @@
 ### 📚 Studying in this moment (Backend Focus):
 ![Python](https://img.shields.io/badge/-Python-0f0f1f?style=for-the-badge&logo=python&logoColor=00ffff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0f0f1f?style=for-the-badge&logo=javascript&logoColor=ff00ff)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-0f0f1f?style=for-the-badge&logo=csharp&logoColor=8cfffa)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0f0f1f?style=for-the-badge&logo=java&logoColor=FF0000)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0f0f1f?style=for-the-badge&logo=mongodb&logoColor=47A248)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0f0f1f?style=for-the-badge&logo=mysql&logoColor=00758F)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0f0f1f?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
 
 ---
 
 <p align="center">
   <b><span style="color:#8cfffa; font-size:18px;">
-  Desenvolvedora focada em <b>Python, C#, Java e JavaScript</b>, apaixonada por <b>backend</b> e integração de APIs. 
-  Atualmente desenvolvendo o projeto pessoal <b>"Consulta Fácil"</b>, focado em backend e automação de processos. 
-  Buscando aplicar conhecimentos em <b>MongoDB, MySQL e PostgreSQL</b> e contribuir para soluções de software eficientes e inovadoras.
+ Desenvolvedora focada em Python, JavaScript, Java e Node.js, apaixonada por backend e integração de APIs. Buscando aplicar conhecimentos e contribuir para soluções de software eficientes e inovadoras.
   </span></b>
 </p>
 
